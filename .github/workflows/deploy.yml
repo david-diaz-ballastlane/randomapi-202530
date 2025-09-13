@@ -44,4 +44,4 @@ jobs:
             npm install
             npm run build || true
             npm run kill || true
-            npm run prod
+            npm start || npm run prod
